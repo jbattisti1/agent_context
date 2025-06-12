@@ -17,5 +17,9 @@ Repeat: Continue the cycle for each new feature or requirement.
 
 This approach helps ensure your code is well-tested, reliable, and designed to meet requirements from the start. It also encourages small, incremental changes and quick feedback.
 
-## Tools
-Use NUnit and Shouldly with unit tests.
+### Context for refactoring.
+Read refactoring catalog found here: https://refactoring.com/catalog/.
+Run the copy/paste detector over the whole codebase to see if there are missing abstractions.
+
+### Tools to use with unit tests.
+NUnit, Shouldly, NSubsitute
