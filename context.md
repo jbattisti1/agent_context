@@ -16,3 +16,6 @@ Refactor: Clean up the code, improving structure or readability, while making su
 Repeat: Continue the cycle for each new feature or requirement.
 
 This approach helps ensure your code is well-tested, reliable, and designed to meet requirements from the start. It also encourages small, incremental changes and quick feedback.
+
+## Tools
+Use NUnit and Shouldly with unit tests.
